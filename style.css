@@ -1,6 +1,24 @@
-.a {
+.d {
     border: 20px solid blue;
     width: 200px;
     height: 20%;
+    padding: 2px soild blue;
     
+}
+.a {
+    background-color: aqua
+}
+.b{
+    background-color: #3ea075
+}
+.c
+{
+    background-color: #7a72df
+}
+.d
+{
+    margin: 5px
+    border 2px solid green;
+    width: 50px;
+    fill: #7a72df
 }
