@@ -17,8 +17,32 @@
 }
 .d
 {
-    margin: 5px
-    border 2px solid green;
-    width: 50px;
-    fill: #7a72df
+    width: 200px;
+    height: 20%;
+    margin: 2em;
+    background-color: blue;
+    border-color: #3ea075;
+    
+}
+.e 
+{
+    width: 200px;
+    height: 20%;
+    margin: 2em;
+    outline-color: #3ea075;
+}
+.f {
+    width: 20px;
+    height: 20px;
+    border-right: 60px;
+    border-buttom: 60px;
+    border-left: 60px;
+}
+.i
+{
+    width: 100px;
+    height: 50px;
+    background: #48e8ee;
+    border-radius: 70%;
+    
 }
