@@ -32,17 +32,37 @@
     outline-color: #3ea075;
 }
 .f {
-    width: 20px;
-    height: 20px;
-    border-right: 60px;
-    border-buttom: 60px;
-    border-left: 60px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    background: #e26821;
+    border-radius: 25%;
+    
 }
-.i
+.g
+{
+    width: 100px;
+    height: 50px;
+    background: #c738da
+}
+
+.h
 {
     width: 100px;
     height: 50px;
     background: #48e8ee;
     border-radius: 70%;
-    
+}
+.i
+{
+    width: 120px;
+    height: 70px;
+    background: #e2f10e;
+}
+.j
+{
+    width: 120px;
+    height: 70px;
+    background: #0a9421;
+    border-radius: 20%
 }
