@@ -32,7 +32,7 @@
     outline-color: #3ea075;
 }
 .f {
-    text-align: center;
+    text-align: centers;
     width: 100px;
     height: 50px;
     background: #e26821;
@@ -61,8 +61,25 @@
 }
 .j
 {
+    color: aliceblue;
     width: 120px;
     height: 70px;
     background: #0a9421;
     border-radius: 20%
+}
+
+.ab button
+{
+    display: block;
+    height: 50px;
+
+}
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f5dada;
+    height: 120%;
+    width: 120%;
 }
